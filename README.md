@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Backend Technologies
 
-<!---
-ShrutiMore23/ShrutiMore23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1 align-"center">Hi there, I'm Shruti More 👋</h1>
+📧 How to reach me: <a href="www.linkedin.com/in/shruti-more23" target-"_blank">Shruti More</a>
