@@ -14,7 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-  
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/80/spring-logo.png" alt="SpringBoot" width="40" height="40"/> </a>
 
   <a href="https://hibernate.org/orm/documentation/6.5/"> <img src="https://img.icons8.com/ios/50/hibernate.png" alt="hibernate" width="40" height="40"></a>
