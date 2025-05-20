@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Shruti+More;Java+Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Shruti+More;Java+Full+Stack+Developer;Cybersecurity+Project+Builder;Music+Lover+%F0%9F%8E%B6;Always+Learning+New+Things!&center=true&width=500&height=45">
 </p>
+
 
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 <h3 align="center">I'm a passionate Software Engineer from India 🇮🇳</h3>
