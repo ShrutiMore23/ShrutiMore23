@@ -15,7 +15,6 @@
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/80/spring-logo.png" alt="SpringBoot" width="40" height="40"/> </a>
-  <a href="https://hibernate.org/orm/documentation/6.5/"> <img src="https://img.icons8.com/ios/50/hibernate.png" alt="hibernate" width="40" height="40"></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/80/express-js.png" alt="express" width="40" height="40"/> </a>
