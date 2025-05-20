@@ -57,10 +57,10 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [GraphiSecure](https://github.com/shrutimore23/Graphical-Password-Authentication-System) | 3-level graphical password system with color and image pattern auth | Node.js, CSS |
-| [Hospital Management System](https://github.com/shrutimore23/Hospital-Management-System) | Web app to manage patient, doctor, and admin data | PHP, MySQL |
+| [TripleLock](https://github.com/shrutimore23/TripleLockAuthenticationSystem) | 3-level graphical password system with color and image pattern auth | SpringBoot, Hibernate |
+| [Hospital Management System](https://github.com/shrutimore23/HospitalMgmtSystm) | Web app to manage patient, doctor, and admin data | PHP, MySQL |
 | [Wanderlust Booking](https://github.com/shrutimore23/Wanderlust) | A MERN-based platform to book stays like Airbnb | MongoDB, Express, React, Node |
-| [Attendance System](https://github.com/shrutimore23/Attendance-Management-System) | A simple Spring Boot-based student attendance system | Spring Boot, MySQL |
+| [Attendance System](https://github.com/shrutimore23/) | A simple Spring Boot-based student attendance system | Spring Boot, MySQL |
 | [WhatsApp Chat Analyzer](https://github.com/shrutimore23/WhatsApp-Chat-Analysis) | Python-based tool to analyze chat messages | Python, pandas, matplotlib |
 
 ---
