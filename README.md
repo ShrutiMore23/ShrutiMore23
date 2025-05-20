@@ -64,7 +64,7 @@
 ---
 
 ### 💡 Fun Fact
-> I’m not just a software engineer 👩‍💻 — I’m also a volleyball player 🏐 and music lover 🎵!
+> My bugs run away when I sing to them 🎶 Just kidding (maybe)! I love blending my coding hours with some soulful music and melodies. 🎤✨r 🎵!
 
 ---
 
