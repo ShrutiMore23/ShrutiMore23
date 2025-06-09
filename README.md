@@ -60,7 +60,7 @@
 | [Hospital Management System](https://github.com/shrutimore23/HospitalMgmtSystm) | Web app to manage patient, doctor, and admin data | PHP, MySQL |
 | [Wanderlust Booking](https://github.com/shrutimore23/Wanderlust) | A MERN-based platform to book stays like Airbnb | MongoDB, Express, React, Node |
 | [Attendance System](https://github.com/shrutimore23/AttendanceTrackerSystem) | A simple Spring Boot-based student attendance system | Spring Boot, MySQL |
-| [WhatsApp Chat Analyzer](https://github.com/shrutimore23/WhatsApp-Chat-Analysis) | Python-based tool to analyze chat messages | Python, pandas, matplotlib |
+
 
 ---
 
