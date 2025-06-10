@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:moreshruti382@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/shruti-more23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="shruti-more-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=firefox-browser"></img></a>
+  <a href="https://shruti-more-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=firefox-browser"></img></a>
 
 </p>
 
