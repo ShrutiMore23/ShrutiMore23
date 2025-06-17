@@ -58,10 +58,11 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [TripleLock](https://github.com/shrutimore23/TripleLockAuthenticationSystem) | 3-level graphical password system with color and image pattern auth | SpringBoot, Hibernate, MySQL |
+| [TripleLock](https://github.com/shrutimore23/TripleLockAuthenticationSystem) | 3-level graphical password system with color and image pattern authentication | SpringBoot, Hibernate, MySQL |
 | [Hospital Management System](https://github.com/shrutimore23/HospitalMgmtSystm) | Web app to manage patient, doctor, and admin data | PHP, MySQL |
 | [Wanderlust Booking](https://github.com/shrutimore23/Wanderlust-Booking) | A MERN-based platform to book stays like Airbnb | MongoDB, Express, Node |
 | [Attendance System](https://github.com/shrutimore23/AttendanceTrackerSystem) | A simple Spring Boot-based student attendance system | Spring Boot, MySQL |
+| [Ecommerce](https://github.com/shrutimore23/Ecommerce) | A simple full-stack e-commerce web application | Spring Boot, React, H2 |
 
 
 ---
